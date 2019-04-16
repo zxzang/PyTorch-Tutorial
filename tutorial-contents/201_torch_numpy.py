@@ -204,6 +204,8 @@ print("数组的维度数目", rb.ndim)
 print("数组元素总数：", rb.size)
 print('shape:', rb.shape)
 
+print("\n")
+
 def add(a, b):
     return a+b
 print (add(1,2))
